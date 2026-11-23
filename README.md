@@ -1,6 +1,6 @@
 # one-line-roast-gadget
 
-One line, 81 characters: one original roast of a gadget used every day — for make.fun's "One-Line Roast: The Gadget You Use Every Day" bounty. The program writes the line to `/output/entry.txt`.
+One line, 79 characters: one original roast of a gadget used every day — for make.fun's "One-Line Roast: The Gadget You Use Every Day" bounty. The program writes the line to `/output/entry.txt`.
 
 > My laptop fan sounds like a jet taking off just because I opened a spreadsheet.
 
